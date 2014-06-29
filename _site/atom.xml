@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wintermute</title>
+  <id>kamisama666.github.io</id>
+  <link href="kamisama666.github.io" />
+  <link href="kamisama666.github.io/atom.xml" rel="self" />
+  <updated>2014-06-29T16:49:59+01:00</updated>
+  <rights>Copyright 2014, Kamisama666</rights>
+  <author>
+    <name>Kamisama666</name>
+  </author>
+  
+    <entry>
+      <title>Live long and prosper</title>
+      <link href="kamisama666.github.io/2014/06/live-long-and-prosper" />
+      <summary type="html">&lt;p&gt;I will be brief. I'm &lt;strong&gt;Kamisama666&lt;/strong&gt;. Of course, this is not my real name. And not, It's not a reference to Dragon Ball (even if I love that show). It doesn't means anything in special. It's simply the nickname I use on Internet. If you want to know my real name, just visit my &lt;a href=&quot;http://es.linkedin.com/pub/%C3%A1ngel-garc%C3%ADa-jim%C3%A9nez/98/980/5b1&quot;&gt;LinkedIn profile&lt;/a&gt;. I also have a &lt;a href=&quot;https://github.com/Kamisama666&quot;&gt;github page&lt;/a&gt; where I publish my code. For any question, petition or insult, send me a message to my &lt;a href=&quot;mailto:kamisama666@webmail.org&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I've started this blog for different reasons: To share my ideas and research with the community, to have a place for notes and to improve my english (I'm from Spain).&lt;/p&gt;
+
+&lt;p&gt;For that reason, the contents of that blog are very likely to be a little messy. But, in general, those are some of the topics that I have preference for:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;IT systems administration and configuration&lt;/li&gt;
+&lt;li&gt;Networking&lt;/li&gt;
+&lt;li&gt;Programming&lt;/li&gt;
+&lt;li&gt;Web developing&lt;/li&gt;
+&lt;li&gt;Hacking and pentesting&lt;/li&gt;
+&lt;li&gt;Linux&lt;/li&gt;
+&lt;li&gt;Free software&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;As a final note, this blog is powered by the &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll static site generator&lt;/a&gt;, &lt;a href=&quot;https://github.com/m3xm/hikari-for-Jekyll&quot;&gt;the Hikari theme&lt;/a&gt; (with some style changes by me) and &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github pages&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Live long and prosper&lt;/p&gt;
+</summary>
+      <id>kamisama666.github.io/2014/06/live-long-and-prosper</id>
+      <updated>2014-06-29T13:04:51+01:00</updated>
+      <author>
+        <name>Kamisama666</name>
+      </author>
+    </entry>
+  
+</feed>

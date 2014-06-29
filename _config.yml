@@ -1,0 +1,15 @@
+name: "Wintermute"
+description: "Wintermute was hive mind, decision maker, effecting change in the world outside."
+
+author: "Kamisama666"
+
+url: "https://kamisama666.github.io"
+baseurl: "https://kamisama666.github.io"
+
+markdown: rdiscount
+permalink: :year/:month/:title
+pygments: true
+
+# Google Analytics
+ga_domain: 
+ga_tracking_id:
