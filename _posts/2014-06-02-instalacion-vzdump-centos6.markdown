@@ -50,6 +50,6 @@ Y después lo instalamos usando yum (así tambien comprobamos las dependencias):
 
 **yum install http://download.openvz.org/contrib/utils/vzdump/vzdump-1.2-4.noarch.rpm**
 
-No debería dar ningún problema. Si lo da, comprueba que tienes instalado procmail (o cualquier otro MTU). Deberías tenerlo por defecto, pero es posible que lo hayas desinstalado. Una vez terminada la instalación, ya deberías poder ejecutar vzdump y vzrestore. Si al hacerlo te muestra un error extraño, comprueba que la variable está exportada (**echo $PERL5LIB**) y que la ruta es correcta.
+No debería dar ningún problema. Si lo da, comprueba que tienes instalado procmail (o cualquier otro MDA). Deberías tenerlo por defecto, pero es posible que lo hayas desinstalado. Una vez terminada la instalación, ya deberías poder ejecutar vzdump y vzrestore. Si al hacerlo te muestra un error extraño, comprueba que la variable está exportada (**echo $PERL5LIB**) y que la ruta es correcta.
 
 Eso es todo. Larga vida y prosperidad.
