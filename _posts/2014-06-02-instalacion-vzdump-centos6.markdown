@@ -26,7 +26,7 @@ Ahora toca añadir la ruta donde openvz buscará la librería. Esto varía depen
 
 Devolverá varios archivos, el que importa es el primero. En mi caso /usr/lib/perl5/vendor_perl/5.8.8/LockFile/Simple.pm
 
-Cogemos esa ruta menos LockFile/Simple.pm y editamos nuestro .bashrc. 
+Cogemos esa ruta menos LockFile/Simple.pm y editamos nuestro fichero .bashrc. 
 
 **vim ~/.bashrc**
 
@@ -48,7 +48,7 @@ Ahora ya podemos instalar vzdump. Primero lo descargamos:
 
 Y después lo instalamos usando yum (así tambien comprobamos las dependencias):
 
-**yum http://download.openvz.org/contrib/utils/vzdump/vzdump-1.2-4.noarch.rpm**
+**yum install http://download.openvz.org/contrib/utils/vzdump/vzdump-1.2-4.noarch.rpm**
 
 No debería dar ningún problema. Si lo da, comprueba que tienes instalado procmail (o cualquier otro MTU). Deberías tenerlo por defecto, pero es posible que lo hayas desinstalado. Una vez terminada la instalación, ya deberías poder ejecutar vzdump y vzrestore. Si al hacerlo te muestra un error extraño, comprueba que la variable está exportada (**echo $PERL5LIB**) y que la ruta es correcta.
 
