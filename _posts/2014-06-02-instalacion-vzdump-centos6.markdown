@@ -28,7 +28,7 @@ Devolverá varios archivos, el que importa es el primero. En mi caso /usr/lib/pe
 
 Cogemos esa ruta menos LockFile/Simple.pm y editamos nuestro .bashrc. 
 
-**vim ~/.basrc**
+**vim ~/.bashrc**
 
 Añadimos:
 
@@ -40,7 +40,7 @@ En mi caso:
 
 Guardamos y cargamos la nueva variable:
 
-**source ~/.basrc**
+**source ~/.bashrc**
 
 Ahora ya podemos instalar vzdump. Primero lo descargamos:
 
